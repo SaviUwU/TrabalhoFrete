@@ -1,0 +1,6 @@
+@TrabalhoFrete_HostAddress = http://localhost:5270
+
+GET {{TrabalhoFrete_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
